@@ -11,8 +11,7 @@
   <a href="#how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#comments">Comments</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licence">Licence</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br><br>
+</p><br>
 
 <h2 id="Build">:pencil2: Build with</h2>
 
