@@ -32,7 +32,10 @@ The libraries and links used were:
 
 <h2 id="how-to-run">:computer: How to run</h2>
 
-1. Click the image to the side and get access to colab notebook now: &nbsp;<a href="https://colab.research.google.com/github/YujiYashima/etec-grades-reporter/blob/main/etec_students_grades.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+1. Click on the colab badge to access the Google Colab Notebook file : 
+
+- *StepByStep* --> <a href="https://colab.research.google.com/github/YujiYashima/etec-grades-reporter/blob/main/etec_students_grades.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+- *Complete*&nbsp;&nbsp; --> <a href="https://colab.research.google.com/github/YujiYashima/etec-grades-reporter/blob/main/step_by_step.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 2. Then fill in the variables with your information in the second code cell (RM, CPS_CODE, PASSWORD).
 
