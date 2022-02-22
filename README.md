@@ -48,7 +48,7 @@ The libraries and links used were:
 
 > If you want to see the automation step by step to learn, use this file: [StepByStep](https://github.com/YujiYashima/Etec-Grades-Reporter/blob/main/step_by_step.ipynb). If you just want to run it in general, use this file: [Complete](https://github.com/YujiYashima/Etec-Grades-Reporter/blob/main/etec_students_grades.ipynb).
 
-<h2 id="licence">LICENCE</h2> 
+<h2 id="licence">:bookmark_tabs: LICENCE</h2> 
 
 [MIT](https://github.com/YujiYashima/Etec-Grades-Reporter/blob/main/LICENSE)
 
